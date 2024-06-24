@@ -1,4 +1,4 @@
-# EmerShell
+# EmerShell ( Work In Progress)
 ## A web SSH service and a secure FTP on the local network
 
 Written in Rust, this program will have the following features:
